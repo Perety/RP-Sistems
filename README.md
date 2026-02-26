@@ -4,7 +4,7 @@ Sistema de Radio y Comunicación tipo Discord con WebRTC
 
 ## 🚀 Descarga
 
-[![Download](https://img.shields.io/badge/Download-Desktop_App-blue?style=for-the-badge&logo=download)](DOWNLOAD.md)
+[![Download](https://img.shields.io/badge/Download-Desktop_App-blue?style=for-the-badge&logo=download)](https://github.com/Perety/RP-Sistems/releases/latest)
 
 ## 📋 Características
 
