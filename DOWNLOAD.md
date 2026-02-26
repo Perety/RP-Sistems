@@ -13,7 +13,7 @@
 #### 📁 **Descarga Directa para Windows**
 ```
 🔗 ENLACE DE DESCARGA WINDOWS:
-https://github.com/tu-usuario/rp-sistems/releases/download/v1.0.0/RP-SISTEMS-Setup-1.0.0.exe
+https://github.com/Perety/rp-sistems/releases/download/v1.0.0/RP-SISTEMS-Setup-1.0.0.exe
 ```
 - **Instalador automático** con asistente
 - **Compatible con Windows 10/11**
@@ -23,7 +23,7 @@ https://github.com/tu-usuario/rp-sistems/releases/download/v1.0.0/RP-SISTEMS-Set
 #### 🍎 **Descarga para macOS**
 ```
 🔗 ENLACE DE DESCARGA MACOS:
-https://github.com/tu-usuario/rp-sistems/releases/download/v1.0.0/RP-SISTEMS-1.0.0.dmg
+https://github.com/Perety/rp-sistems/releases/download/v1.0.0/RP-SISTEMS-1.0.0.dmg
 ```
 - **Paquete DMG** con instalación drag-and-drop
 - **Compatible con macOS 10.15+**
@@ -33,7 +33,7 @@ https://github.com/tu-usuario/rp-sistems/releases/download/v1.0.0/RP-SISTEMS-1.0
 #### 🐧 **Descarga para Linux**
 ```
 🔗 ENLACE DE DESCARGA LINUX:
-https://github.com/tu-usuario/rp-sistems/releases/download/v1.0.0/RP-SISTEMS-1.0.0.AppImage
+https://github.com/Perety/rp-sistems/releases/download/v1.0.0/RP-SISTEMS-1.0.0.AppImage
 ```
 - **AppImage portable** sin instalación
 - **Compatible con Ubuntu, Fedora, Arch, etc.**
@@ -218,9 +218,9 @@ https://github.com/tu-usuario/rp-sistems/releases/download/v1.0.0/RP-SISTEMS-1.0
 ## 🔗 **ENLACES IMPORTANTES**
 
 ### 📥 **Descargas Principales**
-- **Windows**: https://github.com/tu-usuario/rp-sistems/releases/download/v1.0.0/RP-SISTEMS-Setup-1.0.0.exe
-- **macOS**: https://github.com/tu-usuario/rp-sistems/releases/download/v1.0.0/RP-SISTEMS-1.0.0.dmg
-- **Linux**: https://github.com/tu-usuario/rp-sistems/releases/download/v1.0.0/RP-SISTEMS-1.0.0.AppImage
+- **Windows**: https://github.com/Perety/rp-sistems/releases/download/v1.0.0/RP-SISTEMS-Setup-1.0.0.exe
+- **macOS**: https://github.com/Perety/rp-sistems/releases/download/v1.0.0/RP-SISTEMS-1.0.0.dmg
+- **Linux**: https://github.com/Perety/rp-sistems/releases/download/v1.0.0/RP-SISTEMS-1.0.0.AppImage
 
 ---
 
