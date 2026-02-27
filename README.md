@@ -10,10 +10,10 @@ Incluye radio y Comunicación tipo Discord con WebRTC
 ## 📋 Características
 
 - 📻 **Sistema de Radio** con Push-to-Talk
-- 💬 **Susurros Privados** con encriptación
+- 💬 **Susurros Tipo TS3** con encriptación
 - 🎨 **Interfaz Moderna** y personalizable
 - 🔧 **Panel de Administración** completo
-- 🛡️ **Seguridad** y privacidad protegida
+- 🛡️ **Seguridad** y privacidad
 
 ---
 
