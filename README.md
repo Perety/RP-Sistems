@@ -1,7 +1,6 @@
 # 🎮 RP-SISTEMS
 
-Sistema de gestion de roleplay. 
-
+Sistema de gestion de datos para roleplay.
 Incluye radio y Comunicación tipo Discord con WebRTC
 
 ## 🚀 Descarga
