@@ -20,16 +20,6 @@ https://github.com/Perety/rp-sistems/releases/download/v1.0.0/RP-SISTEMS-Setup-1
 - **Tamaño: ~45MB**
 - **Instalación: 2-3 minutos**
 
-#### 🍎 **Descarga para macOS**
-```
-🔗 ENLACE DE DESCARGA MACOS:
-https://github.com/Perety/rp-sistems/releases/download/v1.0.0/RP-SISTEMS-1.0.0.dmg
-```
-- **Paquete DMG** con instalación drag-and-drop
-- **Compatible con macOS 10.15+**
-- **Tamaño: ~42MB**
-- **Instalación: 1-2 minutos**
-
 #### 🐧 **Descarga para Linux**
 ```
 🔗 ENLACE DE DESCARGA LINUX:
@@ -51,12 +41,6 @@ https://github.com/Perety/rp-sistems/releases/download/v1.0.0/RP-SISTEMS-1.0.0.A
 2. **Hacer clic derecho** y seleccionar "Ejecutar como administrador"
 3. **Seguir el asistente** de instalación
 4. **Iniciar RP-SISTEMS** desde el menú Inicio
-
-#### macOS:
-1. **Descargar** el archivo `.dmg`
-2. **Abrir el archivo** (doble clic)
-3. **Arrastrar RP-SISTEMS** a la carpeta Aplicaciones
-4. **Iniciar desde Launchpad** o Finder
 
 #### Linux:
 1. **Descargar** el archivo `.AppImage`
@@ -219,7 +203,6 @@ https://github.com/Perety/rp-sistems/releases/download/v1.0.0/RP-SISTEMS-1.0.0.A
 
 ### 📥 **Descargas Principales**
 - **Windows**: https://github.com/Perety/rp-sistems/releases/download/v1.0.0/RP-SISTEMS-Setup-1.0.0.exe
-- **macOS**: https://github.com/Perety/rp-sistems/releases/download/v1.0.0/RP-SISTEMS-1.0.0.dmg
 - **Linux**: https://github.com/Perety/rp-sistems/releases/download/v1.0.0/RP-SISTEMS-1.0.0.AppImage
 
 ---
