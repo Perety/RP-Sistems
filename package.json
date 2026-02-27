@@ -19,11 +19,7 @@
     "electron",
     "desktop",
     "radio",
-    "communication",
-    "voip",
-    "chat",
-    "discord",
-    "webrtc"
+    "communication"
   ],
   "author": "RP-SISTEMS Team",
   "license": "MIT",
@@ -42,45 +38,23 @@
       "output": "dist"
     },
     "files": [
+      "main.js",
+      "preload.js",
+      "index.html",
+      "src/**/*",
       "build/**/*",
-      "node_modules/**/*",
       "package.json"
     ],
-    "mac": {
-      "category": "public.app-category.social-networking",
-      "target": [
-        {
-          "target": "dmg",
-          "arch": ["x64", "arm64"]
-        }
-      ]
-    },
     "win": {
       "target": [
         {
           "target": "nsis",
-          "arch": ["x64", "ia32"]
+          "arch": ["x64"]
         }
       ]
     },
     "linux": {
-      "target": [
-        {
-          "target": "AppImage",
-          "arch": ["x64"]
-        },
-        {
-          "target": "deb",
-          "arch": ["x64"]
-        }
-      ]
-    },
-    "nsis": {
-      "oneClick": false,
-      "allowToChangeInstallationDirectory": true,
-      "createDesktopShortcut": true,
-      "createStartMenuShortcut": true,
-      "shortcutName": "RP-SISTEMS"
+      "target": ["AppImage"]
     }
   }
 }
